@@ -9,7 +9,7 @@ export const LoginView = ({ onLoggedIn }) => {
 
     const handleSubmit = (event) => {
       // this prevents the default behavior of the form which is to reload the entire page//
-      // simple edit for 3.4 resubmission/merge //
+      // simple edit for 3.4 resubmission/merge right here //
 
       event.preventDefault();
   
